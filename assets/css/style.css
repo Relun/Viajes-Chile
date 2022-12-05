@@ -19,3 +19,12 @@ body {
 /* .img-size {
     max-height: 160px;
 } */
+
+.btn {
+    color: #ffffff;
+}
+
+.fa-brands {
+    font-size: 2rem;
+    padding: 0 0.5rem;
+}
